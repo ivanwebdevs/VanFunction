@@ -32,19 +32,9 @@ VanFunction - Easy Function And MYSQL Alternate
 
 
 
-# saycheese-antidote
 
-[![Build Status](https://travis-ci.com/0x0is1/saycheese-antidote.svg?branch=master)](https://travis-ci.com/StrinTH/saycheese-antidote) 
-![Python application](https://github.com/0x0is1/saycheese-antidote/workflows/Python%20application/badge.svg)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F0x0is1%2Fsaycheese-antidote.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2F0x0is1%2Fsaycheese-antidote?ref=badge_shield)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/0x0is1off@gmail.com)
+## Installation
 
-#### Disclaimer:
-
-Detection and Hijacking saycheese camera spoofing tool by thelinuxchoice.
-
-# Installation
-## Linux:
 
 ```sh
 
@@ -55,11 +45,7 @@ Detection and Hijacking saycheese camera spoofing tool by thelinuxchoice.
 
 
 ```
-## Windows:
 
-```sh
-> same as linux
-```
 
 ### **Support authors**:
 
