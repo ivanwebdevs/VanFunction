@@ -59,10 +59,9 @@ VanFunction - Easy Function And MYSQL Alternate
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our [code of conduct](CODE_OF_CONDUCT.md) and the process of submitting pull requests to us.
 
 ## License 
-[![GitHub license](https://img.shields.io/github/license/0x0is1/saycheese-antidote)](https://github.com/0x0is1/saycheese-antidote/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/0x0is1/saycheese-antidote)](https://github.com/ivanwebdevs/VanFunction/blob/main/LICENSE)
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F0x0is1%2Fsaycheese-antidote.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2F0x0is1%2Fsaycheese-antidote?ref=badge_large)
 
 <a href="NOTICE.md">Notice</a>
