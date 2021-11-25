@@ -49,9 +49,7 @@ VanFunction - Easy Function And MYSQL Alternate
 
 ### **Support authors**:
 
-[![Donate](./assets/default-pink.png)](https://www.buymeacoffee.com/6dciIwk)
 
-[![Donate](./assets/-460.png)](https://paypal.me/0x0is1?locale.x=en_GB)
 
 
 ## Contributing
