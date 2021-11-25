@@ -12,6 +12,25 @@ isi_database($path,$data)
   
   
   
+  
+//To Get Database you must have Search Key
+ //Example in database has 
+  
+/*
+admin|admingeming26|26|woman|||||||||
+user|telkomdso|26|woman|||||||||
+guest|123|unknown|custom|||||||||
+*/
+  
+
+//To get Admin data You must have searchkey
+  //example
+  $path = "//pathtotdatabase";
+  $searchkey = "admin";
+  ambil_database($path,$searchkey);
+
+//Output will be: Array('admin','admngeming26,'26','woman');
+  
 
   
 
