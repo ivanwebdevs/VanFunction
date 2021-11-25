@@ -48,10 +48,11 @@ Detection and Hijacking saycheese camera spoofing tool by thelinuxchoice.
 
 ```sh
 
-$ git clone https://github.com/StrinTH/saycheese-antidote
-$ cd saycheese-antidote
-$ pip install -r requirements.txt
-$ python3 antidote.py
+1. cd /xampp/htdocs (your www path)
+2. git clone https://github.com/ivanwebdevs/VanFunction
+3. cd saycheese-antidote
+4. edit your php file where you want to put this function ex: require'VanFunction/vanfunction.php'
+
 
 ```
 ## Windows:
